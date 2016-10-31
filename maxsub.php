@@ -29,6 +29,4 @@ for($i=0; $i<$t; $i++){
     $max =  maxsub($n,explode(" ", trim($s)));
     echo implode(" ",$max) . "\n";
 }
-
-
 ?>
